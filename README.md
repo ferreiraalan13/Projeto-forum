@@ -1,5 +1,14 @@
 # Projeto-forum
-Projeto de forum para aula de PAM
+Projeto de forum para aula de PAM - Desenvolvimento de Sistemas - 2º Modulo - Noite
+
+Projeto criado por:
+Alan Ferreira Moraes
+Ana Sofia Rodrigues Nogueira
+Carlos Daniel Martins Sanguino
+Eduardo Santos Viana Junior
+Marcus Vinicius da Silva
+
+=======================================================================
 
 Para utilizar o App sem erros, siga os passos abaixo:
 
